@@ -61,7 +61,7 @@ Se realizaron:
 - Jupyter Notebook o JupyterLab  
 
 ## 📁 Estructura del repositorio
-
+```
 saramtestidr-lang/
 ├── data/
 │ └── encuesta_estudiantes.xlsx
@@ -71,3 +71,4 @@ saramtestidr-lang/
 │ ├── contingencia_porcentaje_fila.xlsx
 │ └── comparativo_medias_por_formacion.xlsx
 └── notebook_analisis_datos.ipynb
+```
