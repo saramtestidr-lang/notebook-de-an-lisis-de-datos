@@ -45,20 +45,6 @@ Se realizaron:
 
 ---
 
-## 📁 Estructura del repositorio
-saramtestidr-lang/
-├── data/
-│   └── encuesta_estudiantes.xlsx
-├── outputs/
-│   ├── frecuencias_formacion_ia.xlsx
-│   ├── contingencia_formacion_vs_frecuencia_ia.xlsx
-│   ├── contingencia_porcentaje_fila.xlsx
-│   └── comparativo_medias_por_formacion.xlsx
-└── notebook_analisis_datos.ipynb
-
-
----
-
 ## Cómo reproducir el análisis
 
 1. Descargar o clonar este repositorio.  
@@ -76,3 +62,12 @@ saramtestidr-lang/
 
 ## 📁 Estructura del repositorio
 
+saramtestidr-lang/
+├── data/
+│ └── encuesta_estudiantes.xlsx
+├── outputs/
+│ ├── frecuencias_formacion_ia.xlsx
+│ ├── contingencia_formacion_vs_frecuencia_ia.xlsx
+│ ├── contingencia_porcentaje_fila.xlsx
+│ └── comparativo_medias_por_formacion.xlsx
+└── notebook_analisis_datos.ipynb
