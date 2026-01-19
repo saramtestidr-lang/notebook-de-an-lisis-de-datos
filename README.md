@@ -50,7 +50,11 @@ Se realizaron:
 1. Descargar o clonar este repositorio.  
 2. Abrir el archivo **notebook_analisis_datos.ipynb** en Jupyter Notebook o JupyterLab.  
 3. Ejecutar las celdas en orden secuencial.  
-4. Los archivos de salida se generarán automáticamente en la carpeta **outputs/**.
+4. Los archivos de salida se generarán automáticamente en la carpeta **outputs/**.  
+
+**Nota clave para la replicabilidad:**  
+El archivo de datos original se encuentra en:  
+`data/encuesta_estudiantes.xlsx` y es el insumo principal para ejecutar el notebook.
 
 ---
 
@@ -59,6 +63,7 @@ Se realizaron:
 - Python 3.11 o superior  
 - Pandas 2.0 o superior  
 - Jupyter Notebook o JupyterLab  
+
 
 ## 📁 Estructura del repositorio
 ```
